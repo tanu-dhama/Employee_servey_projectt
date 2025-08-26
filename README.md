@@ -1,5 +1,5 @@
-# employee_servey_project
-using mysql 
+# Employee_Servey_Project
+Using mysql 
 Purpose:
 
 The employee_servey_project is a MySQL-based database system designed to store, manage, and analyze employee feedback collected through internal surveys. It captures key information such as employee details, survey questions, responses, departments, and survey periods. The project enables the organization to assess employee satisfaction, gather insights on workplace culture, and monitor areas of improvement over time.
